@@ -1,0 +1,31 @@
+_repo: Les-Divins-Oracles-de-Zoroastre-ancien-Philosophe-Grec-Interpretez-en-Rime-Fran-oise-par-Fran__43718
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43718-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Habert, François
+    aliases:
+    - Habert, Francois
+    - Habert, Françoys
+    - Habert, Francoys
+    gutenberg_agent_id: '42374'
+    url: http://www.gutenberg.org/2009/agents/42374
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2013-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43718'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoroastrianism -- Poetry'
+- !lcc 'PQ'
+title: Les Divins Oracles de Zoroastre, ancien Philosophe Grec, Interpretez en Rime
+  Françoise, par François Habert de Berry; Avec un Commentaire moral sur ledit Zoroastre,
+  en Poesie Françoise, et Latine.
+url: http://www.gutenberg.org/ebooks/43718
